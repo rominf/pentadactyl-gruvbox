@@ -81,18 +81,18 @@ hi StatusQuestion -a color: inherit !important; background-color: inherit !impor
 " Command Line                                                      {{{1
 " ----------------------------------------------------------------------
 hi -l=s_base0,s_base03_back Normal
-hi -l=s_base03,s_magenta_back CompItem[selected]
+hi -l=s_base02_back,s_base3 CompItem[selected]
 " background is s_base03
 hi CompItem:nth-child(2n+1) -a background: rgba(0, 43, 54, .04);
 hi -l=s_base3,s_comp_title CompTitle
 hi -l=s_base1 CompDesc -a
-hi -l=s_base1 Preview -a
+hi -l=s_base0 Preview -a
 hi -l=s_comp_sep CompTitleSep height: 0px;
 hi -l=s_base0,s_base03_back Message
 hi -l=s_base03,s_yellow_back WarningMsg
 hi -l=s_base03,s_magenta_back ErrorMsg
-hi -l=s_base1 URL
-hi -l=s_base1 URLExtra
+hi -l=s_base2 URL
+hi -l=s_base2 URLExtra
 hi MoreMsg -a color: inherit !important; background-color: inherit !important;
 hi -l=s_green Filter -a
 hi -l=s_base0 InfoMsg
