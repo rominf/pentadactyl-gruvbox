@@ -36,7 +36,14 @@ changes go into effect.
 
 See color palette for Pentadactyl [Solarized](https://github.com/claytron/pentadactyl-solarized). Here I list only differences.
 
-## Completions
+## Hints
+![hits-dark](https://cloud.githubusercontent.com/assets/3449635/3859443/a8b753f2-1f18-11e4-807b-31ae2b6daa4a.png)
 
+## Completions
 ![completions-dark](https://cloud.githubusercontent.com/assets/3449635/3859271/9992ab1c-1f16-11e4-82d1-8e9264264ea0.png)
 
+## Buffers
+![buffers-dark](https://cloud.githubusercontent.com/assets/3449635/3859441/a8b16e6a-1f18-11e4-86eb-050a9c77da62.png)
+
+## Help
+![help-dark](https://cloud.githubusercontent.com/assets/3449635/3859442/a8b1b29e-1f18-11e4-84a1-646efb536676.png)
