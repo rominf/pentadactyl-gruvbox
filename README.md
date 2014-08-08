@@ -1,8 +1,8 @@
-# Pentadactyl Solarized Theme
+# Pentadactyl Gruvbox Theme
 
-This is a color scheme for the [Pentadactyl][penta] add-on
-for [Firefox][ff]. It uses the color palette [Gruvbox][gruvbox],
-designed by Pavel Pertsev and based on the color palette for Pentadactyl [Solarized][https://github.com/claytron/pentadactyl-solarized].
+This is a color scheme for the [Pentadactyl](http://5digits.org/pentadactyl/) add-on
+for [Firefox](https://www.mozilla.org/en-US/firefox/fx/). It uses the color palette [Gruvbox](https://github.com/morhetz/gruvbox),
+designed by Pavel Pertsev and based on the color palette for Pentadactyl [Solarized](https://github.com/claytron/pentadactyl-solarized).
 
 This theme clears out all highlighting settings before applying its own
 in order to avoid bleed over from other themes.
