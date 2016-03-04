@@ -1,8 +1,9 @@
-" Gruvbox dark color scheme for Pentadactyl                         {{{1
+" Gruvbox light color scheme for Pentadactyl                        {{{1
 " ----------------------------------------------------------------------
 "
+" Author: gregbartell <https://github.com/gregbartell>
 " Mantainer: rominf <infroma@gmail.com>
-" Name: gruvbox-dark
+" Name: gruvbox-light
 "
 " Reset the styles                                                  {{{1
 " ----------------------------------------------------------------------
